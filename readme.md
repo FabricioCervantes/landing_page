@@ -1,0 +1,1 @@
+This is a website created as an Odin Project practice to test my abilities with html, css and flexbox. Right now the page is about my dog, Dante. He is a beautiful Siberian Husky!.
